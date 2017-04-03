@@ -1,0 +1,21 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Physical
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd blue-color1-white-color2-stripes-pattern-twill-weaving-cotton-composition (1).jpg
+
+newmtl suit_Male_opened_suit_blinn37
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2

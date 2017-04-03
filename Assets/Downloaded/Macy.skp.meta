@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: 11b8fe45148ec44289975cce75c82f88
+timeCreated: 1491156562
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 1c4eb14345bd495db1ce2b394c986287
+  longitude: -73.98908728782148
+  latitude: 40.75095606299917
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 112.5478, y: 21.070444, z: -170.87292}
+      lookAt: {x: 22.992785, y: 22.476765, z: 2.3826041}
+      up: {x: 0.0033109318, y: 0.999974, z: -0.0064054173}
+      fov: 40
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: canopy
+    100002: canopy 1
+    100004: canopy 10
+    100006: canopy 11
+    100008: canopy 12
+    100010: canopy 13
+    100012: canopy 14
+    100014: canopy 15
+    100016: canopy 16
+    100018: canopy 17
+    100020: canopy 18
+    100022: canopy 19
+    100024: canopy 2
+    100026: canopy 20
+    100028: canopy 21
+    100030: canopy 22
+    100032: canopy 3
+    100034: canopy 4
+    100036: canopy 5
+    100038: canopy 6
+    100040: canopy 7
+    100042: canopy 8
+    100044: canopy 9
+    100046: Component#1
+    100048: Component#1 1
+    100050: Component#1 2
+    100052: Component#1 3
+    100054: Group 2
+    100056: Group 4
+    100058: Group 6
+    100060: //RootNode
+    100062: pipe
+    100064: red-canopy
+    100066: shelter
+    100068: shelter 1
+    100070: shelter 2
+    100072: shelter 3
+    100074: shelter 4
+    100076: shelter 5
+    400000: canopy
+    400002: canopy 1
+    400004: canopy 10
+    400006: canopy 11
+    400008: canopy 12
+    400010: canopy 13
+    400012: canopy 14
+    400014: canopy 15
+    400016: canopy 16
+    400018: canopy 17
+    400020: canopy 18
+    400022: canopy 19
+    400024: canopy 2
+    400026: canopy 20
+    400028: canopy 21
+    400030: canopy 22
+    400032: canopy 3
+    400034: canopy 4
+    400036: canopy 5
+    400038: canopy 6
+    400040: canopy 7
+    400042: canopy 8
+    400044: canopy 9
+    400046: Component#1
+    400048: Component#1 1
+    400050: Component#1 2
+    400052: Component#1 3
+    400054: Group 2
+    400056: Group 4
+    400058: Group 6
+    400060: //RootNode
+    400062: pipe
+    400064: red-canopy
+    400066: shelter
+    400068: shelter 1
+    400070: shelter 2
+    400072: shelter 3
+    400074: shelter 4
+    400076: shelter 5
+    2300000: canopy
+    2300002: canopy 1
+    2300004: canopy 10
+    2300006: canopy 11
+    2300008: canopy 12
+    2300010: canopy 13
+    2300012: canopy 14
+    2300014: canopy 15
+    2300016: canopy 16
+    2300018: canopy 17
+    2300020: canopy 18
+    2300022: canopy 19
+    2300024: canopy 2
+    2300026: canopy 20
+    2300028: canopy 21
+    2300030: canopy 22
+    2300032: canopy 3
+    2300034: canopy 4
+    2300036: canopy 5
+    2300038: canopy 6
+    2300040: canopy 7
+    2300042: canopy 8
+    2300044: canopy 9
+    2300046: Component#1
+    2300048: Component#1 1
+    2300050: Component#1 2
+    2300052: Component#1 3
+    2300054: Group 2
+    2300056: Group 4
+    2300058: Group 6
+    2300060: //RootNode
+    2300062: pipe
+    2300064: red-canopy
+    2300066: shelter
+    2300068: shelter 1
+    2300070: shelter 2
+    2300072: shelter 3
+    2300074: shelter 4
+    2300076: shelter 5
+    3300000: canopy
+    3300002: canopy 1
+    3300004: canopy 10
+    3300006: canopy 11
+    3300008: canopy 12
+    3300010: canopy 13
+    3300012: canopy 14
+    3300014: canopy 15
+    3300016: canopy 16
+    3300018: canopy 17
+    3300020: canopy 18
+    3300022: canopy 19
+    3300024: canopy 2
+    3300026: canopy 20
+    3300028: canopy 21
+    3300030: canopy 22
+    3300032: canopy 3
+    3300034: canopy 4
+    3300036: canopy 5
+    3300038: canopy 6
+    3300040: canopy 7
+    3300042: canopy 8
+    3300044: canopy 9
+    3300046: Component#1
+    3300048: Component#1 1
+    3300050: Component#1 2
+    3300052: Component#1 3
+    3300054: Group 2
+    3300056: Group 4
+    3300058: Group 6
+    3300060: //RootNode
+    3300062: pipe
+    3300064: red-canopy
+    3300066: shelter
+    3300068: shelter 1
+    3300070: shelter 2
+    3300072: shelter 3
+    3300074: shelter 4
+    3300076: shelter 5
+    4300000: Mesh Macy
+    4300002: Mesh Group 2
+    4300004: Mesh Group 4
+    4300006: Mesh Group 6
+    4300008: Mesh canopy
+    4300010: Mesh shelter
+    4300012: Mesh red-canopy
+    4300014: Mesh pipe
+    4300016: Mesh Component#1
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

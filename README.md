@@ -6,6 +6,16 @@ The key features are a wider shopping space, and fitting rooms at the end of the
 
 3D model of the store created in SketchUp by my partner in this project, the talented <a href="https://www.lauranesaliou.me/">Lulu Saliou</a>.
 
+### Directions
+
 WASD to move, as usual. You can even walk, holding LShift, and jump with Space. No real reason for that tho.
 
+### Try It Out
+
 You can play it <a href="https://macys.philkt.me">here</a>.
+
+### Preview
+
+![Level One](/level-1.png)
+
+![Level Two](/level-2.png)
